@@ -21,3 +21,15 @@ IaaS
 
 -Faas
 -Uma unica função(Envio de email por exemplo)
+
+Modelos de deploy
+
+-Private cloud : Somente seu
+
+-Public cloud : Qualquer um pode usar (AWS, google cloud)
+
+-Hybrid cloud :  Pode ser privado ou publico, usa os dois
+
+-Multicloud : Roda todos os serviços em todas as cloud
+
+- Community : Privado, com conceitos publicos, um cloud comunitario
