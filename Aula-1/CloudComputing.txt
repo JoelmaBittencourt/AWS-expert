@@ -1,0 +1,23 @@
+           Principais caracteristicas e vantagens:
+
+-Agilidade 
+-Manutenção
+-Confiabilidade
+-Segurança
+-Performance
+-Elasticidade
+-Redução de custos
+-Metricas
+
+           Modelos de Cloud:
+
+IaaS
+-Infraestrutura sendo disponibilizada virtualmente
+
+
+-Paas
+-Ideia de plataforma como serviço
+
+
+-Faas
+-Uma unica função(Envio de email por exemplo)
